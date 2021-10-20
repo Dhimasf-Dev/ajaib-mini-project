@@ -1,0 +1,33 @@
+.container-header {
+    margin: 25px 0;
+    display: flex;
+    justify-content: flex-start;
+    width: 50vw;
+}
+
+.button-search {
+    background-color: royalblue;
+    color: white;
+    border: 2px solid royalblue ;
+}
+
+.lable-gender {
+    margin-left: 10px;
+}
+
+.dropdown {
+    margin: 0 10px 0 10px;
+    width: 150px;
+    height: 30px;
+}
+
+.button-reset {
+
+    margin-top: 23px;
+}
+
+.button-reset button {
+    height: 30px;
+    background-color: white;
+    border: 1px solid gray;
+}
